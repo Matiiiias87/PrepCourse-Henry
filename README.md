@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba Mod. 2 del curso
+# Este es una prueba de como crear reposigtorio y clonarlo
